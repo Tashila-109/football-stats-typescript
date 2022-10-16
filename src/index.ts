@@ -1,4 +1,4 @@
-import { CsvFileReader } from './CsvFilerReader';
+import { CsvFileReader } from './CsvFileReader';
 import { MatchResult } from './MatchResult';
 
 const reader = new CsvFileReader('football.csv');
